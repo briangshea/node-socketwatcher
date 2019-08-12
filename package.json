@@ -36,7 +36,7 @@
     "url": "git://github.com/btrask/node-socketwatcher.git"
   },
   "gypfile": true,
-  "dependenciesDev": {
+  "devDependencies": {
     "nan": "^2.0.9"
   }
 }
