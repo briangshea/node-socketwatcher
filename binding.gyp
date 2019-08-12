@@ -12,7 +12,7 @@
       "type": "none",
       "dependencies": [ "socketwatcher" ],
       "copies": [
-        { "destination": "./package",
+        { "destination": "./",
           "files": ['./build/Release/socketwatcher.node']
         }
       ]

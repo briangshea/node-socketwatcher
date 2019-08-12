@@ -1,7 +1,7 @@
 {
   "name": "socketwatcher",
   "version": "0.3.0",
-  "main": "./build/Release/socketwatcher.node",
+  "main": "socketwatcher.node",
   "description": "Binding for uv_poll and replacement for IOWatcher",
   "scripts": {
     "test": "true"
@@ -21,10 +21,12 @@
   "license": "MIT",
   "contributors": [
     "Toby Ealden <toby.ealden@gmail.com>",
-    "Ben Trask <bentrask@comcast.net>"
+    "Ben Trask <bentrask@comcast.net>",
+    "Brian G. Shea <bgshea@gmail.com>"
   ],
   "maintainers": [
-    "Ben Trask <bentrask@comcast.net>"
+    "Ben Trask <bentrask@comcast.net>",
+    "Brian G. Shea <bgshea@gmail.com>"
   ],
   "engines": {
     "node": ">=4"

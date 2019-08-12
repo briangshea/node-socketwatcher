@@ -1,0 +1,8 @@
+.*
+binding.gyp
+build/
+package/
+*.cpp
+*.hpp
+wscript
+
